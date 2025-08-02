@@ -1,8 +1,8 @@
 ## Hi, I'm Ashley 👋
 
-👨‍💻I'm a 2nd year IT student from STI, passionate about turning ideas into code. </br>
+👨‍💻I'm a 3rd year IT student from STI, passionate about turning ideas into code. </br>
 🌟 I love trying new things and figuring stuff out. It's always fun to learn something new! Im currently learning React Native</br>
-🎨When I'm not coding, you'll find me drawing (I do digital art). </br>
+🎨When I'm not coding, you'll find me drawing (I do digital arts). </br>
 🎮I love Minecraft. </br>
 
 # 💻 Tech Stack:
