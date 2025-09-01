@@ -1,9 +1,8 @@
 ## Hi, I'm Ashley 👋
 
-👨‍💻I'm a 3rd year IT student from STI, passionate about turning ideas into code. </br>
-🌟 I love trying new things and figuring stuff out. It's always fun to learn something new! Im currently learning React Native</br>
+👨‍💻I'm a 3rd year IT student from STI. </br>
+🌟 I love trying new things and figuring stuff out. It's always fun to learn something new!</br>
 🎨When I'm not coding, you'll find me drawing (I do digital arts). </br>
-🎮I love Minecraft. </br>
 
 # 💻 Tech & Tools
 <p align="left"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" /><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" /><img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" /></p>
