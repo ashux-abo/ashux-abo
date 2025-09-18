@@ -9,12 +9,10 @@
 <p align="center"><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server" /><img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></p
 
 
-<div align="center">
+<div align="center" justify-content="center">
 
   ![](https://nirzak-streak-stats.vercel.app/?user=ashux-abo&theme=dark&hide_border=false)<br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashux-abo&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-  ### ✍️ Random Dev Quote  
   ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 </div>
